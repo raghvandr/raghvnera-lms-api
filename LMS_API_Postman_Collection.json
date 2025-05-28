@@ -18,7 +18,7 @@
         ],
         "body": {
           "mode": "raw",
-          "raw": "{\n  \"name\": \"John Doe\",\n  \"email\": \"john@example.com\",\n  \"password\": \"Password123!\",\n  \"phone\": \"1234567890\",\n  \"role\": \"Member\"\n}"
+          "raw": "{\n  \"name\": \"raghvendra\",\n  \"email\": \"raghvendra@gmail.com\",\n  \"password\": \"Password123!\",\n  \"phone\": \"1234567890\",\n  \"role\": \"Member\"\n}"
         },
         "url": {
           "raw": "http://localhost:5000/auth/register",
@@ -46,7 +46,7 @@
         ],
         "body": {
           "mode": "raw",
-          "raw": "{\n  \"email\": \"john@example.com\",\n  \"password\": \"Password123!\"\n}"
+          "raw": "{\n  \"email\": \"raghvendra@gmail.com\",\n  \"password\": \"Password123!\"\n}"
         },
         "url": {
           "raw": "http://localhost:5000/auth/login",
